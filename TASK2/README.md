@@ -127,8 +127,3 @@ https://github.com/user-attachments/assets/e0664e42-88cf-469a-aa9c-f0bcfce21c87
 
 
 ```
-
----
-
-Apakah mau saya tambahkan bagian **diagram alur CPU (Core0 vs Core1 dan prioritas task)** biar README kamu makin mudah dipahami secara visual?
-```
