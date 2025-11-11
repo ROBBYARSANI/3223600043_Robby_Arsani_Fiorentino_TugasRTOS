@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/b93c024e-d355-4cf0-a410-885a0c05196c
 Berikut versi **parafrase** dari README kamu dalam format **Markdown (.md)** dengan gaya yang tetap teknis, rapi, dan mudah dipahami 👇
 
 ---
@@ -113,7 +115,16 @@ Nilai prioritas `10` terlalu besar dibanding task lain (`1`), akibatnya:
 ---
 
 🎥 **Demo Video:**
-(Lampirkan link atau file video uji coba di sini)
+Percobaan 1
+
+
+https://github.com/user-attachments/assets/6e0a4aa5-566f-4fed-bc55-a15e5837d1e6
+
+Percobaan 2
+
+
+Uploading Screen Recording 2025-11-11 151828.mp4…
+
 
 ```
 
