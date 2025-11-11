@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/6e0a4aa5-566f-4fed-bc55-a15e5837d1e6
 Percobaan 2
 
 
-Uploading Screen Recording 2025-11-11 151828.mp4…
+https://github.com/user-attachments/assets/e0664e42-88cf-469a-aa9c-f0bcfce21c87
 
 
 ```
